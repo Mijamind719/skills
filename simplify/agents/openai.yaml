@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simplify"
+  short_description: "Conservative behavior-preserving code cleanup"
+  default_prompt: "Use $simplify to simplify the recently changed code while preserving behavior."
